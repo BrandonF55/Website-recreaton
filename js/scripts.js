@@ -24,3 +24,4 @@ ulList.append(liElements);
 const liElements2 = document.createElement('li');
 liElements2.append('It usually searches for insects on the underside of leaves of outer limbs while clinging to leaves with its feet.');
 ulList.append(liElements2);
+
